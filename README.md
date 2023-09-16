@@ -1,5 +1,5 @@
 <h1 align="center">📜 Summarify</h1>
-<img src="https://dribbble.com/shots/22578689-Summarify?added_first_shot=true" alt="result"/>
+<img src="https://cdn.dribbble.com/userupload/10116538/file/original-1066186dece39b0e4a086c73e3722d78.png?resize=1200x615" alt="result"/>
 <p align="center">Summarizer Application using Rapid API model. The website is a platform that offers a unique service for users: summarizing articles and websites. It leverages the power of Rapid API to generate concise and coherent summaries of online content, making it easier for readers to grasp the main points and key takeaways from articles and webpages. Built using the React Vite framework and styled with the modern and user-friendly Tailwind CSS, this website provides an intuitive and visually appealing user interface. Visitors can simply input the URL of the article or webpage they wish to summarize, and the website's underlying technology will quickly process the content and present a summarized version, saving users time and effort in reading lengthy texts.</p>
 
 - 🔗Website Link [https://graceful-pudding-5bc853.netlify.app/](https://graceful-pudding-5bc853.netlify.app/)
