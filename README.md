@@ -13,3 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Results</h3>
+<img src="https://cdn.dribbble.com/userupload/10116643/file/original-73fc9f1ec4dca37576b28fce37a1d2a2.png?resize=752x390" alt= "result" width="400"/>
+<hr>
+<img src="https://cdn.dribbble.com/userupload/10116644/file/original-b7a6cf2bac14cb4b6403aa2f24940485.png?resize=1024x838&vertical=center" alt= "result" width="400"/>
+
